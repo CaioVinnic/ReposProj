@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLanches", "AppLanches\AppLanches.csproj", "{3CDDF241-2632-4A06-8383-9D8974ACC85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDDF241-2632-4A06-8383-9D8974ACC85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDDF241-2632-4A06-8383-9D8974ACC85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDDF241-2632-4A06-8383-9D8974ACC85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDDF241-2632-4A06-8383-9D8974ACC85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C6F9C0-0BE7-4DBA-8731-1203A72C3069}
+	EndGlobalSection
+EndGlobal
