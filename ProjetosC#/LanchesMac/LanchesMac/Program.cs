@@ -11,5 +11,5 @@ public class Program
             .ConfigureWebHostDefaults(webBuilder =>
             {
                 webBuilder.UseStartup<Startup>();
-            }); //teste de commit
+            }); //teste de commit 3
 }
