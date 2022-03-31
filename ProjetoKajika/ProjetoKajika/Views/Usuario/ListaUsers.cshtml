@@ -1,0 +1,32 @@
+﻿@model IList<ProjetoKajika.Entidades.Usuario>
+
+<head>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+
+<table class="table users users-bg">
+    <thead>
+        <tr>
+            @*<th>Id</th>*@
+            <th>Nome</th>
+            <th>E-mail</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr class = "links">
+                @*<td>@usuario.Id</td>*@
+                <td>@usuario.Nome</td>
+                <td>@usuario.Email</td>
+                <td>
+                    <a href="/CRUD/Edit/@usuario.Id"><i class="glyphicon glyphicon-pencil" title="Editar"></i></a>
+                    <a href="/CRUD/Details/@usuario.Id"><i class="glyphicon glyphicon-list-alt" title="Detalhes"></i></a>
+                    <a href="/CRUD/Delete/@usuario.Id"><i class="glyphicon glyphicon-trash" title="Deletar"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

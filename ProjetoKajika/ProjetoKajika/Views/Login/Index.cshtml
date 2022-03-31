@@ -1,0 +1,14 @@
+﻿@*@Html.ActionLink("Novo Usuario", "Form", "Usuario")*@
+
+<form action="@Url.Action("Autentica")" method="post">
+    @Html.ValidationMessage("login.Invalido")
+
+    <label for="login">Login:</label>
+    <input id="login" name="login" type="text" class="form-control" />
+
+    <label for="senha" class=".tamanho-campo">Senha:</label>
+    <input id="senha" name="senha" type="password" class="form-control" />
+
+    <input type="submit" value="Autenticar" />
+
+</form>

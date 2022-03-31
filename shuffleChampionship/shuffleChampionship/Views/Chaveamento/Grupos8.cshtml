@@ -1,0 +1,52 @@
+﻿@model shuffleChampionship.Models.ParticipantesModel
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container text-center">
+    <h1 class="text-center text-white" style="width: 845px">FASE DE GRUPOS</h1>
+    <div class="row text-white tx-bodycard">
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="font-weight-bold text-center nm-headcard">GRUPO A</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 0; x < 4; x++)
+                        {
+                            <tr>
+                                <td class="nm-bodycard">@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="font-weight-bold text-center nm-headcard">GRUPO B</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 4; x < 8; x++)
+                        {
+                            <tr>
+                                <td class="nm-bodycard">@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

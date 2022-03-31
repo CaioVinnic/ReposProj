@@ -1,0 +1,23 @@
+﻿<nav>
+    <div class="container-fluid nav a">
+        <ul class="nav nav-tabs">
+            <li>@Html.ActionLink("Shuffle Championship", "Index", "Home")</li>
+            @*<li>@Html.ActionLink("Grupos (32 times)", "Grupos32", "Chaveamento")</li>*@
+            <li><a href="#" class="desabilitado">Grupos (32 times)</a></li>
+            <li>@Html.ActionLink("Grupos (16 times)", "Grupos16", "Chaveamento")</li>
+            <li>@Html.ActionLink("Grupos (8 times)", "Grupos8", "Chaveamento")</li>
+            <li>@Html.ActionLink("Oitavas", "Oitavas", "Chaveamento")</li>
+            <li>@Html.ActionLink("Quartas", "Quartas", "Chaveamento")</li>
+            <li>@Html.ActionLink("Campeonato", "Campeonato", "Chaveamento")</li>
+
+            @*@if (User.Identity.IsAuthenticated)
+        {
+            <li class="pull-right">@Html.ActionLink("Sair", "Logout", "Login")</li>
+        }
+        else
+        {
+            <li class="pull-right">@Html.ActionLink("Entrar", "SignIn", "Login")</li>
+        }*@
+        </ul>
+    </div>
+</nav>

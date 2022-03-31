@@ -1,0 +1,166 @@
+﻿@model shuffleChampionship.Models.ParticipantesModel
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container text-center">
+    <h1 class="text-center text-white" style="width: 845px">FASE DE GRUPOS</h1>
+    <div class="row text-white">
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="font-weight-bold text-center">GRUPO A</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 0; x < 4; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO B</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 4; x < 8; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO C</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 8; x < 12; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO D</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 12; x < 16; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO E</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 16; x < 20; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO F</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 20; x < 24; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO G</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 24; x < 28; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-6 py-2">
+            <div class="card card-body w-50 h-100">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-center font-weight-bold">GRUPO H</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int x = 28; x < 32; x++)
+                        {
+                            <tr>
+                                <td>@Model.PlayersTeams[x]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

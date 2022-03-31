@@ -1,0 +1,39 @@
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csprojAssemblyReference.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CoreCompileInputs.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe.config
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CopyComplete
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe.config
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csprojAssemblyReference.cache
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CoreCompileInputs.cache
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CopyComplete
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe.config
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csprojAssemblyReference.cache
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CoreCompileInputs.cache
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CopyComplete
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe.config
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\ValidaLatLon_Ceps000.pdb
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csprojAssemblyReference.cache
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.csproj.CopyComplete
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.exe
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon_Ceps000\obj\Debug\ValidaLatLon_Ceps000.pdb

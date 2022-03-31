@@ -1,0 +1,9 @@
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\obj\Debug\ApiViaCep.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\obj\Debug\ApiViaCep.ConsoleApp.csproj.CopyComplete
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Projects\ApiViaCep\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb

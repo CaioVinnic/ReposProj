@@ -1,0 +1,39 @@
+﻿@*<nav>
+    <div class="container-fluid nav a">
+        <ul class="nav nav-tabs">
+            <li>@Html.ActionLink(" ", "Index", "Home", new { @class = "glyphicon glyphicon-home", @title = "Home" })</li>
+            <li>@Html.ActionLink(" ", "ListaUsers", "Usuario", null, new { @class = "glyphicon glyphicon-user", @title = "Usuários" })</li>
+            <li>@Html.ActionLink(" ", "Index", "Relatorio", new { @class = "glyphicon glyphicon-list-alt", @title = "Relatórios" })</li>
+
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="pull-right">@Html.ActionLink(" ", "Logout", "Login", new { @class = "glyphicon glyphicon-log-out", @title = "Sair" })</li>
+            }
+            else
+            {
+                <li class="pull-right">@Html.ActionLink(" ", "SignIn", "Login", new { @class = "glyphicon glyphicon-log-in", @title = "Entrar" })</li>
+            }
+        </ul>
+    </div>
+</nav>*@
+
+<nav>
+    <div class="container-fluid nav a">
+        <ul class="nav nav-tabs">
+            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+            <li>@Html.ActionLink("Usuário", "ListaUsers", "Usuario")</li>
+            <li>@Html.ActionLink("Relatório", "Index", "Relatorio")</li>
+
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="pull-right">@Html.ActionLink("Sair", "Logout", "Login")</li>
+            }
+            else
+            {
+                <li class="pull-right">@Html.ActionLink("Entrar", "SignIn", "Login")</li>
+            }
+        </ul>
+    </div>
+</nav>

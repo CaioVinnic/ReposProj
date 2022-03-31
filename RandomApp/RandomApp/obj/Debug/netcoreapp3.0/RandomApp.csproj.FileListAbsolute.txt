@@ -1,0 +1,10 @@
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.exe
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.deps.json
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.runtimeconfig.json
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.runtimeconfig.dev.json
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.dll
+C:\Users\caio_\Projects\RandomApp\RandomApp\bin\Debug\netcoreapp3.0\RandomApp.pdb
+C:\Users\caio_\Projects\RandomApp\RandomApp\obj\Debug\netcoreapp3.0\RandomApp.AssemblyInfoInputs.cache
+C:\Users\caio_\Projects\RandomApp\RandomApp\obj\Debug\netcoreapp3.0\RandomApp.AssemblyInfo.cs
+C:\Users\caio_\Projects\RandomApp\RandomApp\obj\Debug\netcoreapp3.0\RandomApp.dll
+C:\Users\caio_\Projects\RandomApp\RandomApp\obj\Debug\netcoreapp3.0\RandomApp.pdb

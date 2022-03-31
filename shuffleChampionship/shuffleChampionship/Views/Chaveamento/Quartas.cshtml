@@ -1,0 +1,34 @@
+﻿@model shuffleChampionship.Models.ParticipantesModel
+
+    <head>
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <link href="~/Content/Site.css" rel="stylesheet" />
+        <link href="~/Content/bootstrap.css" rel="stylesheet" />
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    </head>
+
+<div class="container">
+    <h1 class="text-center text-white">QUARTAS DE FINAL</h1>
+    <div class="row text-white tx-bodycard">
+        <div class="col-12 py-2">
+            <div class="card card-body w-100 h-100">
+                <table>
+                    <tbody>
+                        @{int j = 0; }
+                        @for (int x = 0; x < 8; x = x + 2)
+                        {
+                            j++;
+                            <tr>
+                                <td class="font-weight-bold nm-head">JOGO @j</td>
+                            </tr>
+                            <tr>
+                                <td>@Model.PlayersTeams[x] vs @Model.PlayersTeams[x + 1]</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

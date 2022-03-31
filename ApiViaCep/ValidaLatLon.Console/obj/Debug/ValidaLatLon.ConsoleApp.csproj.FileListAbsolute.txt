@@ -1,0 +1,50 @@
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CopyComplete
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CopyComplete
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\fmori\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CopyComplete
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\NESS\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CopyComplete
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Desktop\Nova pasta\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.ConsoleApp.csproj.CopyComplete
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\caio_\Projects\ValidaLatLong\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb

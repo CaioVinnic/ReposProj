@@ -1,0 +1,11 @@
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.exe
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.deps.json
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.runtimeconfig.json
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.runtimeconfig.dev.json
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.dll
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\bin\Debug\netcoreapp3.0\SorteioCampeonato.pdb
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\obj\Debug\netcoreapp3.0\SorteioCampeonato.csprojAssemblyReference.cache
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\obj\Debug\netcoreapp3.0\SorteioCampeonato.AssemblyInfoInputs.cache
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\obj\Debug\netcoreapp3.0\SorteioCampeonato.AssemblyInfo.cs
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\obj\Debug\netcoreapp3.0\SorteioCampeonato.dll
+C:\Users\caio_\Projects\RandomApp\SorteioCampeonato\obj\Debug\netcoreapp3.0\SorteioCampeonato.pdb

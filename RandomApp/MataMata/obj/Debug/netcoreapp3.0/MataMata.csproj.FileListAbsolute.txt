@@ -1,0 +1,10 @@
+C:\Users\caio_\Projects\RandomApp\MataMata\obj\Debug\netcoreapp3.0\MataMata.AssemblyInfoInputs.cache
+C:\Users\caio_\Projects\RandomApp\MataMata\obj\Debug\netcoreapp3.0\MataMata.AssemblyInfo.cs
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.exe
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.deps.json
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.runtimeconfig.json
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.runtimeconfig.dev.json
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.dll
+C:\Users\caio_\Projects\RandomApp\MataMata\bin\Debug\netcoreapp3.0\MataMata.pdb
+C:\Users\caio_\Projects\RandomApp\MataMata\obj\Debug\netcoreapp3.0\MataMata.dll
+C:\Users\caio_\Projects\RandomApp\MataMata\obj\Debug\netcoreapp3.0\MataMata.pdb

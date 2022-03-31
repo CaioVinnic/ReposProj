@@ -1,0 +1,35 @@
+﻿@model ProjetoKajika.Entidades.Usuario
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+
+<div class="links">
+    <h2>Details</h2>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+<p class="links">
+    <a href="/CRUD/Edit/@Model.Id">Edit</a> |
+    <a href="/Usuario/ListaUsers/">Back to List</a>
+</p>

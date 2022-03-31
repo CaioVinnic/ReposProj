@@ -1,0 +1,10 @@
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe.config
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\ValidaLatLon.Console.pdb
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.csprojAssemblyReference.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.csproj.CoreCompileInputs.cache
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.exe
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.pdb
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fsm\OneDrive\NESS\Ensalamento\ValidaLatitudeLongitude\ValidaLatitudeLongitude\ValidaLatLon.Console\obj\Debug\ValidaLatLon.Console.csproj.CopyComplete

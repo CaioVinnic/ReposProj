@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GNuZPD87KCEEhKR7aZczZ0nl/DA8KqhCXG6QAut7Xu03SbR+1K1XpnpVQld1+YJUt2EmJUhqxLM6TNIM6mmZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caio_\\Projects\\RandomApp\\SorteioCampeonato\\SorteioCampeonato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caio_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\caio_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\caio_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\caio_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\bin\Debug\CorreiosWS.exe.config
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\bin\Debug\CorreiosWS.exe
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\bin\Debug\CorreiosWS.pdb
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.csprojAssemblyReference.cache
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.Form1.resources
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.Properties.Resources.resources
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.csproj.GenerateResource.cache
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.exe
+C:\Users\caio_\source\repos\CorreiosWS\CorreiosWS\obj\Debug\CorreiosWS.pdb
