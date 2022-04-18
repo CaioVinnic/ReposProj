@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LanchesMac",
+    "\\LanchesMac\\Controllers",
+    "\\LanchesMac\\ViewModels",
+    "\\LanchesMac\\Views",
+    "\\LanchesMac\\Views\\Home",
+    "\\LanchesMac\\Views\\Lanche",
+    "\\LanchesMac\\Views\\Shared"
+  ],
+  "SelectedNode": "\\LanchesMac\\Controllers\\CarrinhoCompraController.cs",
+  "PreviewInSolutionExplorer": false
+}
