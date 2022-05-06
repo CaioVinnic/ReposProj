@@ -576,3 +576,13 @@ C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\obj\Debug\net6.
 C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
 C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
 C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caio_\source\repos\ProjetosCSharp\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.MvcApplicationPartsAssemblyInfo.cs
