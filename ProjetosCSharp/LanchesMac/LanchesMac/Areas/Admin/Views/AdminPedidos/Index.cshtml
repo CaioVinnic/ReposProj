@@ -1,14 +1,24 @@
-﻿@model IEnumerable<LanchesMac.Models.Pedido>
+﻿@model ReflectionIT.Mvc.Paging.PagingList<LanchesMac.Models.Pedido>
 
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h3>Pedidos</h3>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<form method="get" class="form-inline">
+    <input name="filter" class="form-control" placeholder="filtro"
+           value="@Model.RouteValue["Filter"]"/>
+    <button type="submit" class="btn btn-info">
+        <span class="glyphicon glyphicon-search" aria-hidden="true">Procurar</span>
+    </button>
+</form>
+
+Total de pedidos: @Model.TotalRecordCount
+<div>
+    <vc:pager paging-list="Model"></vc:pager>
+</div>
+
 <table class="table">
     <thead>
         <tr>
@@ -87,7 +97,8 @@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.PedidoId">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.PedidoId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.PedidoId">Delete</a>
+                <a asp-action="Delete" asp-route-id="@item.PedidoId">Delete</a> |
+                <a asp-action="PedidoLanches" asp-route-id="@item.PedidoId">Ver Itens</a>
             </td>
         </tr>
 }
