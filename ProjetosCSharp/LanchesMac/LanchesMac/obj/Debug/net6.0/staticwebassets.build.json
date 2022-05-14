@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aoVFG9K/6nNypiW2ctg/ojA/10+8NPhriAu44/pZ9Lo=",
+  "Hash": "BPfIYqBi7CS7llQwle0XeamnRwFOtTehsq/yq3WPTQ0=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -338,6 +338,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\phone-app-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\Images\\Produtos\\molhopimenta.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/Produtos/molhopimenta.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Produtos\\molhopimenta.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\Images\\Produtos\\pastaalho.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/Produtos/pastaalho.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Produtos\\pastaalho.jpg"
     },
     {
       "Identity": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\Images\\registro1.jpg",

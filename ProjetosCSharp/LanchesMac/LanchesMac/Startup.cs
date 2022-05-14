@@ -28,6 +28,8 @@ public class Startup
             .AddEntityFrameworkStores<AppDbContext>()
             .AddDefaultTokenProviders();
 
+        services.Configure<ConfigurationImagens>(Configuration.GetSection("ConfigurationPastaImagens"));
+
         //requisitos das senhas
         services.Configure<IdentityOptions>(options =>
         {
