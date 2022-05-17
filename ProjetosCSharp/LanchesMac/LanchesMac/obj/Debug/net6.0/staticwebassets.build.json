@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BPfIYqBi7CS7llQwle0XeamnRwFOtTehsq/yq3WPTQ0=",
+  "Hash": "Rw0Jq8qqf0oRNy11PuE7JJHgj3FGNe4+jOqTlxFzLFE=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -406,6 +406,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\upload2.png"
+    },
+    {
+      "Identity": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\Images\\vinnic_logo.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "Images/vinnic_logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\vinnic_logo.jpg"
     },
     {
       "Identity": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\wwwroot\\Images\\visualizar1.jpg",
