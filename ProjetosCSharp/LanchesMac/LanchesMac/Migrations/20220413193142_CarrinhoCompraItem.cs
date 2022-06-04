@@ -9,7 +9,7 @@ namespace LanchesMac.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.RenameColumn(
-                name: "ImagemThumbailUrl",
+                name: "ImagemThumbnailUrl",
                 table: "Lanches",
                 newName: "ImagemThumbnailUrl");
 

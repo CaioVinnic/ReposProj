@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {}
+    "C:\\Users\\caio_\\Documents\\Projetos_Git\\Repositorios\\ReposProj\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {
+    "C:\\Users\\caio_\\Documents\\Projetos_Git\\Repositorios\\ReposProj\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+        "projectUniqueName": "C:\\Users\\caio_\\Documents\\Projetos_Git\\Repositorios\\ReposProj\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
         "projectName": "LanchesMac",
-        "projectPath": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+        "projectPath": "C:\\Users\\caio_\\Documents\\Projetos_Git\\Repositorios\\ReposProj\\ProjetosCSharp\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
         "packagesPath": "C:\\Users\\caio_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caio_\\source\\repos\\ProjetosCSharp\\LanchesMac\\LanchesMac\\obj\\",
+        "outputPath": "C:\\Users\\caio_\\Documents\\Projetos_Git\\Repositorios\\ReposProj\\ProjetosCSharp\\LanchesMac\\LanchesMac\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\caio_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -43,29 +40,33 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "ReflectionIT.Mvc.Paging": {
               "target": "Package",
@@ -73,7 +74,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.3.0, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [
@@ -94,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -82,6 +82,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
+CriarPerfisUsuario(app);
+
 ////cria os perfis
 //SeedUserRoleInitial.SeedRoles();
 ////cria os usuarios e atribui ao perfil
@@ -116,7 +118,7 @@ void CriarPerfisUsuario(WebApplication app)
     using (var scope = scopedFactory.CreateScope())
     {
         var services = scope.ServiceProvider.GetService<ISeedUserRoleInitial>();
-        services.SeedUsers();
         services.SeedRoles();
+        services.SeedUsers();
     }
 }
